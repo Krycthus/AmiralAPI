@@ -1,0 +1,11 @@
+d:\Documents\Visual Studio 2017\Projects\AmiralAPI\AmiralAPI\bin\Debug\netcoreapp2.0\AmiralAPI.deps.json
+d:\Documents\Visual Studio 2017\Projects\AmiralAPI\AmiralAPI\bin\Debug\netcoreapp2.0\AmiralAPI.runtimeconfig.json
+d:\Documents\Visual Studio 2017\Projects\AmiralAPI\AmiralAPI\bin\Debug\netcoreapp2.0\AmiralAPI.runtimeconfig.dev.json
+d:\Documents\Visual Studio 2017\Projects\AmiralAPI\AmiralAPI\bin\Debug\netcoreapp2.0\AmiralAPI.dll
+d:\Documents\Visual Studio 2017\Projects\AmiralAPI\AmiralAPI\bin\Debug\netcoreapp2.0\AmiralAPI.pdb
+d:\Documents\Visual Studio 2017\Projects\AmiralAPI\AmiralAPI\obj\Debug\netcoreapp2.0\AmiralAPI.csprojResolveAssemblyReference.cache
+d:\Documents\Visual Studio 2017\Projects\AmiralAPI\AmiralAPI\obj\Debug\netcoreapp2.0\AmiralAPI.csproj.CoreCompileInputs.cache
+d:\Documents\Visual Studio 2017\Projects\AmiralAPI\AmiralAPI\obj\Debug\netcoreapp2.0\AmiralAPI.AssemblyInfoInputs.cache
+d:\Documents\Visual Studio 2017\Projects\AmiralAPI\AmiralAPI\obj\Debug\netcoreapp2.0\AmiralAPI.AssemblyInfo.cs
+d:\Documents\Visual Studio 2017\Projects\AmiralAPI\AmiralAPI\obj\Debug\netcoreapp2.0\AmiralAPI.dll
+d:\Documents\Visual Studio 2017\Projects\AmiralAPI\AmiralAPI\obj\Debug\netcoreapp2.0\AmiralAPI.pdb
